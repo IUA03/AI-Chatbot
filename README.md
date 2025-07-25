@@ -75,10 +75,7 @@ python convertintosmaller.py
 
 ## 🎥 Demo Video
 
-<video controls width="100%">
-  <source src="https://github.com/IUA03/AI-Chatbot/raw/main/Demo/demo%20video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/ad9ef65e-69c6-4133-8e9d-531f303589a3
 
 ---
 
