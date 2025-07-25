@@ -4,6 +4,14 @@ This is a Flask-based AI chatbot that uses a trained neural network model to und
 
 ---
 
+## 📁 Custom Dataset
+
+This project was built entirely from scratch, without relying on any pre-existing datasets or external APIs. All of the training data, including intents, patterns, and responses, was created manually to ensure full control and ownership of the dataset.
+
+By starting from the ground up, the model is trained on data that’s specifically tailored to the project’s needs. This helps ensure the chatbot is perfectly aligned with the intended use case, leading to more accurate and effective results.
+
+---
+
 ## 🔧 Features
 
 * Frontend: HTML template for chat UI
